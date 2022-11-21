@@ -1,0 +1,97 @@
+body {
+    background-color: #F5D63D;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    color:#1137B6;  
+    
+}
+
+.nav-link:hover {
+    color: #0FDC42;  
+}
+
+.carousel-inner{
+    height: 30em;
+
+
+}
+
+.carousel-item {
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.lead {
+    font-weight: 370;
+    color: #1137B6;
+    margin: 1em;
+}
+
+hr {
+    color: #fff;
+    font-weight: bolder;
+}
+
+#lotus {
+    margin-top: 2em;
+}
+
+.titulo{
+    color: #20bc47;
+    text-align: center;
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+}
+
+.tricontent{
+    margin-left:10%;
+    margin-right: 10%;
+    text-align: center;
+    height: auto;
+    font-size: 1.25rem;
+    color: #1137B6;
+    font-weight: 370;
+}
+
+#img1 {
+    margin: 0%;
+    margin-top: 1rem;
+    /* width: 42%;
+    height: 70%; */
+    width: 25rem;
+    height: 25rem;
+    border-radius: 100%;
+    border: 4px solid #0FDC42;
+    background-image: url(/img/Japão\ 1988\ 10.jpg);
+    background-position: center;
+    /* display: inline-block; */
+    transition: all 2s;
+}
+
+#img1:hover{
+    border: 0;
+    border-radius: 0;
+    transition: all 2s;
+
+}
+
+.space{
+    margin-top: 2rem;
+}
+
+footer {
+    margin-top: 2em;
+}
+
+footer a{
+    color:#1137B6;
+    text-decoration: none;
+}
+
+footer a:hover{
+    color:#091f65;
+    text-decoration: underline;
+}
